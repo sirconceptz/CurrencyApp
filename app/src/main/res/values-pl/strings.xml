@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Kursy walut</string>
+    <string name="mainCurrency">Waluta główna</string>
+    <string name="outputCurrency">Waluta wyjściowa</string>
+    <string name="currencyRates">Kursy walut</string>
+    <string name="amount_to_convert">Kwota do konwersji</string>
+    <string name="error_in_retrieving_data">Błąd przy pobieraniu danych</string>
+    <string-array name="country_name_list">
+        <item>Stany Zjednoczone</item>
+        <item>Euro</item>
+        <item>Wielka Brytania</item>
+        <item>Szwajcaria</item>
+        <item>Kanada</item>
+        <item>Zjednoczone Emiraty Arabskie</item>
+        <item>Australia</item>
+        <item>Polska</item>
+        <item>Japonia</item>
+        <item>RPA</item>
+        <item>Chiny</item>
+        <item>Nowa Zelandia</item>
+        <item>Szwecja</item>
+        <item>Norwegia</item>
+        <item>Kuwejt</item>
+        <item>Bahrajn</item>
+        <item>Oman</item>
+        <item>Jordania</item>
+        <item>Izrael</item>
+        <item>Turcja</item>
+        <item>Ukraina</item>
+    </string-array>
+</resources>

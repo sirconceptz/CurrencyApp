@@ -1,0 +1,29 @@
+{
+  "disclaimer": "Usage subject to terms: https://openexchangerates.org/terms",
+  "license": "https://openexchangerates.org/license",
+  "timestamp": 1648472400,
+  "base": "USD",
+  "rates": {
+    "AED": 3.673005,
+    "AUD": 1.332241,
+    "BHD": 0.377095,
+    "CAD": 1.250456,
+    "CHF": 0.935278,
+    "CNY": 6.3703,
+    "EUR": 0.912695,
+    "GBP": 0.763327,
+    "ILS": 3.222884,
+    "JOD": 0.709,
+    "JPY": 123.6555,
+    "KWD": 0.304497,
+    "NOK": 8.698331,
+    "NZD": 1.445599,
+    "OMR": 0.384513,
+    "PLN": 4.303316,
+    "SEK": 9.529865,
+    "TRY": 14.845,
+    "UAH": 29.511128,
+    "USD": 1,
+    "ZAR": 14.613571
+  }
+}

@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Currency App</string>
+    <string name="mainCurrency">Main currency</string>
+    <string name="outputCurrency">Output currency</string>
+    <string name="currencyRates">Currency rates</string>
+    <string name="amount_to_convert">Amount to convert</string>
+    <string name="error_in_retrieving_data">Error in retrieving data</string>
+    <string-array name="code_list" translatable="false">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>CHF</item>
+        <item>CAD</item>
+        <item>AED</item>
+        <item>AUD</item>
+        <item>PLN</item>
+        <item>JPY</item>
+        <item>ZAR</item>
+        <item>CNY</item>
+        <item>NZD</item>
+        <item>SEK</item>
+        <item>NOK</item>
+        <item>KWD</item>
+        <item>BHD</item>
+        <item>OMR</item>
+        <item>JOD</item>
+        <item>ILS</item>
+        <item>TRY</item>
+        <item>UAH</item>
+    </string-array>
+    <string-array name="symbol_list" translatable="false">
+        <item>$</item>
+        <item>€</item>
+        <item>£</item>
+        <item>CHF</item>
+        <item>$</item>
+        <item>د.إ</item>
+        <item>$</item>
+        <item>zł</item>
+        <item>¥</item>
+        <item>R</item>
+        <item>¥</item>
+        <item>$</item>
+        <item>kr</item>
+        <item>kr</item>
+        <item>د.ك</item>
+        <item>د.ب</item>
+        <item> ر.ع</item>
+        <item>د.أ</item>
+        <item>₪</item>
+        <item>₺</item>
+        <item>₴</item>
+    </string-array>
+    <string-array name="country_name_list">
+        <item>USA</item>
+        <item>Euro</item>
+        <item>United Kingdom</item>
+        <item>Switzerland</item>
+        <item>Canada</item>
+        <item>United Arab Emirates</item>
+        <item>Australia</item>
+        <item>Poland</item>
+        <item>Japan</item>
+        <item>RPA</item>
+        <item>China</item>
+        <item>New Zealand</item>
+        <item>Sweden</item>
+        <item>Norway</item>
+        <item>Kuwait</item>
+        <item>Bahrain</item>
+        <item>Oman</item>
+        <item>Jordan</item>
+        <item>Israel</item>
+        <item>Turkey</item>
+        <item>Ukraine</item>
+    </string-array>
+</resources>
